@@ -1,0 +1,10 @@
+{
+  "name": "opsangeles-bot",
+  "description": "A helpfull irc bot and http listener",
+  "version": "0.0.1",
+  "author": "lo <github@petalphile.com>",
+  "dependencies": {
+    "irc": ">= 0.3.3"
+  }
+}
+
